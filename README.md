@@ -1,6 +1,6 @@
-### I hosted this website here : https://weatherwebsitebynik.000webhostapp.com/
-
 # Weather Website Project
+
+### I hosted this website here : https://weatherwebsitebynik.000webhostapp.com/
 
 This project is a weather website that allows users to check the weather conditions for a specific location by granting access to their location or entering a city name.
 
