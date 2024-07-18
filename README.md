@@ -28,7 +28,7 @@ This project is a weather website that allows users to check the weather conditi
 
 ## Setup Instructions
 
-1. **Clone the Repository:** 'git clone https://github.com/sftp-nik/Climatrend.git'
+1. **Clone the Repository:** ` git clone https://github.com/sftp-nik/Climatrend.git `
 2. **Navigate to Project Directory:** Open the terminal/command prompt and navigate to the project directory.
 3. **Open Index.html:** Open the `index.html` file in your web browser to view the weather website.
 
