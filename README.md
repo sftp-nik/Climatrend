@@ -3,6 +3,9 @@
 
 This project is a weather website that allows users to check the weather conditions for a specific location by granting access to their location or entering a city name.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - **Current Weather:** Users can view the current weather conditions, including temperature, humidity, wind speed, and weather description.
