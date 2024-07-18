@@ -3,8 +3,7 @@
 
 This project is a weather website that allows users to check the weather conditions for a specific location by granting access to their location or entering a city name.
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/fb5a34d3-c58a-41c5-bebe-a45db7642093)
 
 ## Features
 
