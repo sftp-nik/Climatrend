@@ -36,3 +36,4 @@ This project is a weather website that allows users to check the weather conditi
 
 - Weather data provided by OpenWeather. 
 - Geolocation functionality powered by the Geolocation API.
+
